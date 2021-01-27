@@ -1,0 +1,6 @@
+framework module Pods_NBPageMenu_Tests {
+  umbrella header "Pods-NBPageMenu_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

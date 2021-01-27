@@ -1,0 +1,6 @@
+framework module NBPageMenu {
+  umbrella header "NBPageMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

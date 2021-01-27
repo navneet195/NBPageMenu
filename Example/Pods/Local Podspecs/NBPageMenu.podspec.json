@@ -1,0 +1,22 @@
+{
+  "name": "NBPageMenu",
+  "version": "0.1.0",
+  "summary": "A short description of NBPageMenu.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/navneet195/NBPageMenu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "navneet195": "navneetbaldha195@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/navneet195/NBPageMenu.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NBPageMenu/Classes/**/*"
+}

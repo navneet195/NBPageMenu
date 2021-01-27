@@ -1,0 +1,16 @@
+PODS:
+  - NBPageMenu (0.1.0)
+
+DEPENDENCIES:
+  - NBPageMenu (from `../`)
+
+EXTERNAL SOURCES:
+  NBPageMenu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NBPageMenu: 45183b85d7567f01516cd605af557b9caf7cefdc
+
+PODFILE CHECKSUM: 8fabb41fe19d3935615d9db3837ca379eb0eebd3
+
+COCOAPODS: 1.10.1
