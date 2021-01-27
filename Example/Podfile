@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'NBPageMenu_Example' do
+  pod 'NBPageMenu', :path => '../'
+
+  target 'NBPageMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
